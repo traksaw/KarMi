@@ -1,6 +1,6 @@
 # Purity in BW by KarMi
 
-This project is encapsulates a local-artist photography work through various images and layouts. 
+This project encapsulates a local-artist photography work through various images and layouts. 
 
 **Link to project:** https://purityinbw.netlify.app/
 
