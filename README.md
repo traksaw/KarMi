@@ -2,9 +2,9 @@
 
 This project encapsulates a local-artist photography work through various images and layouts. 
 
-**Link to project:** https://purityinbw.netlify.app/
+**Link to project:** [(https://puritybykarmi.netlify.app/)]
 
-![alt tag](https://purityinbw.netlify.app/)
+![alt tag](https://puritybykarmi.netlify.app/)
 
 ## How It's Made:
 
